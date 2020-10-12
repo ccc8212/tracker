@@ -1,1 +1,1 @@
-# tracker
+# spendings tracker
