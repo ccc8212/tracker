@@ -1,1 +1,1 @@
-# spendings tracker
+# spendings tracker readme
